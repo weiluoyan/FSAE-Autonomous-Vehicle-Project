@@ -52,5 +52,3 @@ roslaunch carla_ros_bridge carla_ros_bridge.launch
 ⭐ Support
 
 If you find this project helpful, please give it a star ⭐ on GitHub! 🚀
-
-3️⃣ Clone & Build the Project
